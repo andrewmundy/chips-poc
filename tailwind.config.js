@@ -7,7 +7,8 @@ module.exports = {
 			xxs: { max: '370px' },
 		},
 		colors: {
-			background: '#E388AB',
+			background: 'black',
+			foreground: 'white',
 		},
 		extend: {},
 	},
